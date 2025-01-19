@@ -81,7 +81,7 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 
 ### 🏆 *Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs* 🏆  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalu prasad Aroori&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=Laluprasad1&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />  
 </p>  
 
 ---
@@ -103,18 +103,18 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 
 ### 📊 *Gɪᴛʜᴜʙ Sᴛᴀᴛs* 📊  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalu prasad Aroori&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Laluprasad1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalu prasad Aroori&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalu prasad1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
 </p>  
 
 ---
 
 ### 📈 *Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ* 📈  
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalu prasad Aroori&theme=radical" alt="GitHub Streaks" width="600" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laluprasad1&theme=radical" alt="GitHub Streaks" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=Lalu prasad Aroori&theme=github" alt="Contribution Graph" width="600" />  
+  <img src="https://activity-graph.herokuapp.com/graph?username=Laluprasad1&theme=github" alt="Contribution Graph" width="600" />  
 </p>
