@@ -20,7 +20,7 @@
 <h1 align="center">Hello 👋, I'm Lalu prasad Aroori</h1>  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Lalu prasad Aroori&color=blue&style=flat-square" alt="Profile Views" />  
+  <img src=""C:\Users\Lalu prasad Aroori\OneDrive\Pictures\Saved Pictures\passphoto.jpg"" alt="Profile Views" />  
 </p>
 
 ---
