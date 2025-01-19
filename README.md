@@ -44,7 +44,7 @@
 - **GeeksforGeeks:** [aroorilalohag](https://www.geeksforgeeks.org/user/aroorilalohag/)
 
 ---
-### 🌐 *Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs* 🌐  
+### 🌐 **Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs** 🌐  
 <p align="center">  
   <a href="https://leetcode.com/u/Laluprasad1403/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
@@ -58,6 +58,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
   </a>  
 </p>
+
 ---
 ## 🌟 **Featured Projects**
 
