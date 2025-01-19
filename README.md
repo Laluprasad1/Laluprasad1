@@ -46,15 +46,15 @@
 ---
 ### 🌐 *Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs* 🌐  
 <p align="center">  
-  <a href="https://leetcode.com/u/VenkateshPatel/" target="_blank" rel="noreferrer">  
+  <a href="https://leetcode.com/u/Laluprasad1403/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
-  <a href="https://www.hackerrank.com/profile/venkateshpatel21" target="_blank" rel="noreferrer">  
+  <a href="https://www.hackerrank.com/profile/aroorilaluprasad" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
-  <a href="https://www.geeksforgeeks.org/user/venkatesh0dkj/" target="_blank" rel="noreferrer">  
+  <a href="https://www.geeksforgeeks.org/user/aroorilalohag/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
   </a>  
 </p>
