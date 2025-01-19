@@ -1,62 +1,76 @@
-<div align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" />  
-</div>
+# Lalu Prasad Aroori
+
+👋 Hi, I'm **Lalu Prasad Aroori**, a passionate developer specializing in **Cloud Computing**, **Data Structures and Algorithms (DSA)**, **Artificial Intelligence (AI)**, and **Web Development**. I'm always excited to take on new challenges, collaborate on meaningful projects, and contribute to the open-source community.
 
 ---
 
-👋 *Hi, I’m [Your Name]*  
-👀 I’m interested in *Cloud Computing* and *Data Structures and Algorithms (DSA)*, particularly in optimizing search algorithms and understanding complex data structures.  
-🌱 I’m currently learning *DSA*, focusing on dynamic programming and graph algorithms, while also exploring *Cloud Computing* concepts. I’m working on small projects to apply my knowledge.  
-💞 I’m looking to collaborate on developing a website providing *DSA resources and interactive tutorials*, using technologies like HTML, CSS, JavaScript, and backend frameworks. I'm also keen on contributing to open-source projects related to *Cloud Computing* and *DSA*.
+## 🚀 **About Me**
 
-📫 *How to reach me:*  
-&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: [aroorilaluprassad@gmail.com](mailto:aroorilaluprasad@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 LinkedIn: [Lalu prasad Aroori](https://www.linkedin.com/in/lalu-prasad-aroori/)
-😄 Pronouns: *He/Him*  
-⚡ Fun fact: *I can solve a Rubik’s cube in under a minute and have traveled to 10 different countries!*
+🌱 I'm currently enhancing my skills in **AI/ML**, developing interactive **DSA resources**, and contributing to open-source projects. My ultimate goal is to work on impactful projects that leverage **cloud technologies** and **AI** to solve real-world problems.  
+💻 My key interests include **web development**, **cloud-based applications**, and **interactive tools** that engage users in a fun and educational way.
 
 ---
 
-<h1 align="center">Hello 👋, I'm Lalu prasad Aroori</h1>  
+## 🌐 **Professional & Academic Background**
 
-<p align="center">  
-  <img src=""C:\Users\Lalu prasad Aroori\OneDrive\Pictures\Saved Pictures\passphoto.jpg"" alt="Profile Views" />  
-</p>
+- **Internships:**
+  - *Agratas Academy*: Cloud Computing Intern  
+  - *AICTE Eduskills*: AI/ML Virtual Internship  
+  - *AICTE Eduskills*: Data Engineering Virtual Internship  
+  - *AICTE Eduskills*: Employability Skills Job-Ready Virtual Internship  
 
----
-
-### 🌐 *LinkedIn Profile* 🌐  
-- *Profile:* [Kruthik Roshan Godishala](https://www.linkedin.com/in/Lalu prasad Aroori/)  
-- *About Me:*  
-  I am passionate about technology, coding, and solving challenging problems in the field of Data Structures and Algorithms. My journey includes:  
-  - *Internships:*  
-    - *ShadowFox:* Data Science Intern  
-    - *CodeClause:* Java Development Intern  
-    - *InternPe:* Completed a professional internship  
-  - *Educational Background:*  
-    - *School:* [SRI HARSHA HIGH SCHOOL DAMERA X ROAD]  
-    - *College:* [SR University]  
-
-Feel free to connect with me on LinkedIn to explore opportunities, collaborations, or just to discuss all things tech!
+- **Education:**
+  - *School:* ZPHS Veliminedu  
+  - *Intermediate:* Pragathi Junior College, Nalgonda  
+  - *UG:* SR University  
 
 ---
 
-### 🌐 *Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs* 🌐  
-<p align="center">  
-  <a href="https://leetcode.com/u/Lalu prasad Aroori/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
-  </a>  
-  &nbsp;&nbsp;  
-  <a href="https://www.hackerrank.com/godishalakruthi3" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" />  
-  </a>  
-  &nbsp;&nbsp;  
-  <a href="https://auth.geeksforgeeks.org/user/Lalu prasad Aroori18/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
-  </a>  
-</p>  
+## 💻 **Technical Skills**
+
+- **Languages:** Java, Python  
+- **Tools & Technologies:** Git, Cloud Computing, Data Structures  
+- **Areas of Expertise:** AI/ML, Cloud-based Applications, DSA, Web Development
 
 ---
+
+## 🔗 **Connect with Me**
+
+- **Email:** [aroorilaluprasad@gmail.com](mailto:aroorilaluprasad@gmail.com)  
+- **LinkedIn:** [Lalu Prasad Aroori](https://www.linkedin.com/in/lalu-prasad-aroori/)  
+- **GitHub:** [Lalu Prasad Aroori](https://github.com/lalupasadaroori)  
+- **LeetCode:** [Laluprasad1403](https://leetcode.com/u/Laluprasad1403/)  
+- **HackerRank:** [aroorilaluprasad](https://www.hackerrank.com/profile/aroorilaluprasad)  
+- **GeeksforGeeks:** [aroorilalohag](https://www.geeksforgeeks.org/user/aroorilalohag/)
+
+---
+
+## 🌟 **Featured Projects**
+
+- **ResumeSpark:** A gamified, interactive resume builder designed to make the process of creating resumes engaging and fun.
+- **Cloud-Based Web Application:** A scalable, secure web platform utilizing cloud technologies to create seamless user experiences.
+- **Linked List & Scheduling Algorithms:** Various implementations focused on optimizing performance and understanding core data structures.
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+- **Hackathons:** Active participant in numerous hackathons, recognized for problem-solving and innovative ideas.
+- **Certifications:**
+  - AWS Certified Solutions Architect – Associate  
+  - Google Cloud Professional Data Engineer  
+  - Coursera certifications in AI/ML, Web Development, and Cloud Computing.
+
+---
+
+## 💬 **Fun Fact**
+
+I’m a fast learner but my short-term memory sometimes takes a coffee break! ☕😆
+
+---
+
+Feel free to connect, share ideas, and explore opportunities together. Let's create something impactful! 🚀
+
 
 ### *LeetCode Strikes* ⚡  
 <p align="center">
