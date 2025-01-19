@@ -44,7 +44,21 @@
 - **GeeksforGeeks:** [aroorilalohag](https://www.geeksforgeeks.org/user/aroorilalohag/)
 
 ---
-
+### 🌐 *Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs* 🌐  
+<p align="center">  
+  <a href="https://leetcode.com/u/VenkateshPatel/" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
+  </a>  
+  &nbsp;&nbsp;  
+  <a href="https://www.hackerrank.com/profile/venkateshpatel21" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" />  
+  </a>  
+  &nbsp;&nbsp;  
+  <a href="https://www.geeksforgeeks.org/user/venkatesh0dkj/" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
+  </a>  
+</p>
+---
 ## 🌟 **Featured Projects**
 
 - **ResumeSpark:** A gamified, interactive resume builder designed to make the process of creating resumes engaging and fun.
@@ -106,7 +120,7 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
   <img src="https://github-readme-stats.vercel.app/api?username=Laluprasad1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalu prasad1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laluprasad1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
 </p>  
 
 ---
