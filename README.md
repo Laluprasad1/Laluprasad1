@@ -29,7 +29,7 @@
 ## 💻 **Technical Skills**
 
 - **Languages:** Java, Python  
-- **Tools & Technologies:** Git, Cloud Computing, Data Structures  
+- **Tools & Technologies:** Sql, Cloud Computing, Data Structures  
 - **Areas of Expertise:** AI/ML, Cloud-based Applications, DSA, Web Development
 
 ---
@@ -64,6 +64,8 @@
 
 - **ResumeSpark:** A gamified, interactive resume builder designed to make the process of creating resumes engaging and fun.
 - **Linked List & Scheduling Algorithms:** Various implementations focused on optimizing performance and understanding core data structures.
+- **EmoVision:** A facial emotion recognition system using AI to analyze and visualize emotional states in real-time.
+- **ClickCrafter:** An AI-powered banner and video generator that creates customizable promotional content for e-commerce and events.
 
 ---
 
