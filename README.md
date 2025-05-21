@@ -108,9 +108,7 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
     <tr>  
       <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/><br />Java</a></td>  
       <td align="center"><a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" alt="Data Structures" width="60" height="60"/><br />Data Structures</a></td>  
-      <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br />Python</a></td>  
-      
-    </tr>  
+      <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br />Python</a></td>     </tr>  
   </table>  
 </p>  
 
