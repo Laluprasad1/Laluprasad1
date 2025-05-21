@@ -63,7 +63,6 @@
 ## 🌟 **Featured Projects**
 
 - **ResumeSpark:** A gamified, interactive resume builder designed to make the process of creating resumes engaging and fun.
-- **Cloud-Based Web Application:** A scalable, secure web platform utilizing cloud technologies to create seamless user experiences.
 - **Linked List & Scheduling Algorithms:** Various implementations focused on optimizing performance and understanding core data structures.
 
 ---
@@ -108,8 +107,7 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
       <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/><br />Java</a></td>  
       <td align="center"><a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" alt="Data Structures" width="60" height="60"/><br />Data Structures</a></td>  
       <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br />Python</a></td>  
-      <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/><br />Git</a></td>  
-      <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/><br />Docker</a></td>  
+      
     </tr>  
   </table>  
 </p>  
