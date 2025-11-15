@@ -38,8 +38,8 @@
 
 - **Email:** [aroorilaluprasad@gmail.com](mailto:aroorilaluprasad@gmail.com)  
 - **LinkedIn:** [Lalu Prasad Aroori](https://www.linkedin.com/in/lalu-prasad-aroori/)  
-- **GitHub:** [Lalu Prasad Aroori](https://github.com/lalupasadaroori)  
-- **LeetCode:** [Laluprasad1403](https://leetcode.com/u/Laluprasad1403/)  
+- **GitHub:** [Lalu Prasad Aroori](https://github.com/Laluprasad1)  
+- **LeetCode:** [Laluprasad1403](https://leetcode.com/u/Laluprasad1/)  
 - **HackerRank:** [aroorilaluprasad](https://www.hackerrank.com/profile/aroorilaluprasad)  
 - **GeeksforGeeks:** [aroorilalohag](https://www.geeksforgeeks.org/user/aroorilalohag/)
 
