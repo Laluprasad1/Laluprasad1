@@ -90,7 +90,7 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 
 ### *LeetCode Strikes* ⚡  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Laluprasad1403?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
+  <img src="https://leetcard.jacoblin.cool/Laluprasad1?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
 </p>
 
 ---
