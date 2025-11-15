@@ -39,14 +39,14 @@
 - **Email:** [aroorilaluprasad@gmail.com](mailto:aroorilaluprasad@gmail.com)  
 - **LinkedIn:** [Lalu Prasad Aroori](https://www.linkedin.com/in/lalu-prasad-aroori/)  
 - **GitHub:** [Lalu Prasad Aroori](https://github.com/Laluprasad1)  
-- **LeetCode:** [Laluprasad1403](https://leetcode.com/u/Laluprasad1/)  
+- **LeetCode:** [Laluprasad1](https://leetcode.com/u/Laluprasad1/)  
 - **HackerRank:** [aroorilaluprasad](https://www.hackerrank.com/profile/aroorilaluprasad)  
 - **GeeksforGeeks:** [aroorilalohag](https://www.geeksforgeeks.org/user/aroorilalohag/)
 
 ---
 ### 🌐 **Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs** 🌐  
 <p align="center">  
-  <a href="https://leetcode.com/u/Laluprasad1403/" target="_blank" rel="noreferrer">  
+  <a href="https://leetcode.com/u/Laluprasad1/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
