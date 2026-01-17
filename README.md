@@ -125,9 +125,9 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 ---
 
 ### 📈 *Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ* 📈  
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laluprasad1&theme=radical" alt="GitHub Streaks" width="600" />  
-</p>  
-<p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=Laluprasad1&theme=github" alt="Contribution Graph" width="600" />  
-</p>
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Laluprasad1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
