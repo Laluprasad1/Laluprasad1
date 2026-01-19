@@ -31,21 +31,75 @@
 
 ---
 
-## 💻 Technical Skills
+### 🚀 Languages & Tools
 
-- **Languages:** Java, Python  
-- **Tools & Technologies:** SQL, Cloud Computing, Data Structures  
-- **Areas of Expertise:** AI/ML, Cloud-based Applications, DSA, Web Development
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" /><br/>Java
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" /><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" /><br/>SQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" width="60" /><br/>Data Structures
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/4144/4144764.png" width="60" /><br/>Cloud Computing
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" /><br/>Git
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
 ## 🌟 Featured Projects
 
-- **ResumeSpark** – A gamified, interactive resume builder  
-- **EmoVision** – AI-powered facial emotion recognition system  
-- **ClickCrafter** – AI banner and video generator  
-- **DSA Visualizer** – Sorting and searching algorithm visualizer  
-- **Tic-Tac-Toe AI** – Game using Minimax algorithm  
+---
+
+### 📄 ResumeSpark  
+**Gamified Interactive Resume Builder**  
+A smart, gamified platform that helps users build professional resumes through an engaging and interactive UI experience.  
+🔗 https://github.com/Laluprasad1/ResumeSpark  
+
+---
+
+### 🧠 EmoVision  
+**AI-Powered Facial Emotion Recognition System**  
+An intelligent system that detects and visualizes human emotions in real time using deep learning and computer vision techniques.  
+🔗 https://github.com/Laluprasad1/EmoVision  
+
+---
+
+### 🎨 ClickCrafter  
+**AI Banner and Video Generator**  
+An AI-powered promotional content generator that creates customizable banners and videos for e-commerce platforms, events, and webinars.  
+🔗 https://github.com/Laluprasad1/ClickCrafter  
+
+---
+
+### 📊 DSA Visualizer  
+**Sorting and Searching Algorithm Visualizer**  
+An interactive web-based tool to visualize popular sorting and searching algorithms for better learning and concept clarity.  
+🔗 https://github.com/Laluprasad1/Sorting-Searching-Visualizer  
+
+---
+
+### ❌⭕ Tic-Tac-Toe AI  
+**Minimax-Based Game AI**  
+A classic Tic-Tac-Toe game powered by the Minimax algorithm that allows players to challenge an unbeatable AI opponent.  
+🔗 https://github.com/Laluprasad1/tic-tac-toe-master  
+ 
 
 ---
 
@@ -72,53 +126,32 @@ I’m a fast learner but my short-term memory sometimes takes a coffee break ☕
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laluprasad1&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />
-</p>  
-
----
-
-### 🚀 Languages & Tools
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" /><br/>Java
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" width="60" /><br/>Data Structures
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" /><br/>Python
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laluprasad1&show_icons=true&locale=en&theme=radical" width="600" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laluprasad1&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laluprasad1&show_icons=true&locale=en&layout=compact&theme=radical" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laluprasad1&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Laluprasad1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 
-## 📊 GitHub Contributor Statistics
-
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Laluprasad1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laluprasad1&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
 
 ---
+
+## 📊 GitHub Contributor Statistics
 
 ![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
 
