@@ -125,12 +125,18 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 ---
 
 ### 📈 *Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ* 📈  
+## 📊 GitHub Contributor Statistics
+
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Laluprasad1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg">
+</picture>
 
 ---
 
