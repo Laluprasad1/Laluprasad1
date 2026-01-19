@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & AI Developer | DSA Enthusiast | Web Developer | Hackathon Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Cloud+Computing+%26+AI+Developer;DSA+Explorer;Open-Source+Contributor;Chair+of+SRU+Hackathon+%26+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Cloud+Computing+%26+AI+Developer;DSA+Explorer;Open-Source+Contributor;Chair+of+SRU+Hackathon+Club" alt="Typing SVG" />
 </p>
 
 ---
