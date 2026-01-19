@@ -131,3 +131,31 @@ Feel free to connect, share ideas, and explore opportunities together. Let's cre
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalu-prasad-aroori/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Laluprasad1" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Laluprasad1/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/aroorilaluprasad" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aroorilaluprasad@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laluprasad1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
