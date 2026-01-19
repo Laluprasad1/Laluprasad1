@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & AI Developer | DSA Enthusiast | Web Developer | Hackathon Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Cloud+Computing+%26+AI+Developer;DSA+Explorer;Open-Source+Contributor;Hackathon+Winner+🎉;Chair+of+Hackathon+%26+Innovation+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Cloud+Computing+%26+AI+Developer;DSA+Explorer;Open-Source+Contributor;Chair+of+SRU+Hackathon+%26+Club" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,10 +50,8 @@
 ---
 
 ## 🏆 Achievements & Certifications
-
-- 🥇 Winner of SRU Idea Conclave for AI chatbot  
-- 🧠 Finalist in Smart India Hackathon  
-- 👨‍💻 Chair of Hackathon & Innovation Club  
+ 
+- 👨‍💻 Chair of SRU Hackathon Club  
 - 🏁 AWS Academy Certified  
 - 🏁 CCNA Intro to Networks  
 - 🏁 JPMorgan Chase Software Engineering Simulation  
@@ -122,11 +120,7 @@ I’m a fast learner but my short-term memory sometimes takes a coffee break ☕
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
 
 ---
 
