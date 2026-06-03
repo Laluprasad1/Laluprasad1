@@ -9,57 +9,87 @@
 
 ## 🚀 About Me
 
-👋 Hi, I'm **Lalu Prasad Aroori**, a passionate developer specializing in **Cloud Computing**, **Data Structures and Algorithms (DSA)**, **Artificial Intelligence (AI)**, and **Web Development**. I'm always excited to take on new challenges, collaborate on meaningful projects, and contribute to the open-source community.
+👋 Hi, I'm **Lalu Prasad Aroori**, a Computer Science undergraduate at **SR University (CGPA: 9.8)** passionate about building impactful software solutions using **Full Stack Development, Cloud Computing, Artificial Intelligence, and Data Structures & Algorithms**.
 
-🌱 I'm currently enhancing my skills in **AI/ML**, developing interactive **DSA resources**, and contributing to open-source projects.  
-💻 My key interests include **web development**, **cloud-based applications**, and **interactive tools** that engage users in a fun and educational way.
+💡 I enjoy transforming ideas into real-world products, whether it's an AI-powered content generator, a finance management platform, an emotion recognition system, or interactive educational tools.
+
+🌱 Currently exploring:
+- Full Stack Development (React, Node.js, MongoDB)
+- Cloud Computing & DevOps
+- Artificial Intelligence & Machine Learning
+- System Design & Scalable Applications
+- Open Source Contributions
+
+🎯 My goal is to build scalable products that solve real-world problems while continuously learning modern technologies and engineering practices.
 
 ---
 
 ## 🌐 Professional & Academic Background
 
 ### 🎓 Education
-- **School:** ZPHS Veliminedu  
-- **Intermediate:** Pragathi Junior College, Nalgonda  
-- **UG:** SR University (B.Tech CSE, 2023–2027, CGPA 9.8)
+
+- **School:** ZPHS Veliminedu
+- **Intermediate:** Pragathi Junior College, Nalgonda
+- **UG:** SR University (B.Tech CSE, 2023–2027)
+- **Current CGPA:** 9.8/10
 
 ### 💼 Internships
-- **Agratas Academy:** Cloud Computing Intern  
-- **AICTE Eduskills:** AI/ML Virtual Internship  
-- **AICTE Eduskills:** Data Engineering Virtual Internship  
-- **AICTE Eduskills:** Employability Skills Job-Ready Virtual Internship  
+
+#### ☁️ Agratas Academy
+**Cloud Computing Intern**
+- Explored cloud architecture fundamentals
+- Worked with deployment workflows and infrastructure concepts
+- Gained practical exposure to cloud technologies
+
+#### 🤖 AICTE Eduskills
+**AI/ML Virtual Internship**
+- Worked on machine learning concepts and workflows
+- Learned model building and data preprocessing techniques
+
+#### 📊 AICTE Eduskills
+**Data Engineering Virtual Internship**
+- Learned data engineering fundamentals
+- Worked with structured and unstructured datasets
+
+#### 🎯 AICTE Eduskills
+**Employability Skills Job-Ready Virtual Internship**
+- Enhanced professional communication and workplace skills
+
+#### 🧠 Google AI-ML Virtual Internship
+- Developed practical understanding of AI and Machine Learning applications
+- Explored real-world AI problem-solving approaches
 
 ---
 
-### 🚀 Languages & Tools
+## 🚀 Languages & Technologies
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" /><br/>Java
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" /><br/>Python
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" /><br/>SQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" width="60" /><br/>Data Structures
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/4144/4144764.png" width="60" /><br/>Cloud Computing
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" /><br/>Git
-      </td>
-    </tr>
-  </table>
-</p>
+### 👨‍💻 Programming Languages
 
+Java • Python • JavaScript • SQL • C
+
+### 🎨 Frontend Development
+
+HTML5 • CSS3 • Bootstrap • React.js • Next.js
+
+### ⚙️ Backend Development
+
+Node.js • Express.js • REST APIs
+
+### 🗄️ Databases
+
+MongoDB • MySQL
+
+### ☁️ Cloud & DevOps
+
+AWS • Docker • Git • GitHub • CI/CD
+
+### 🤖 AI & Data
+
+Machine Learning • OpenCV • Data Visualization • Prompt Engineering
+
+### 🛠️ Developer Tools
+
+VS Code • Postman • Linux • GitHub Actions
 
 ---
 
@@ -67,118 +97,187 @@
 
 ---
 
-### 📄 ResumeSpark  
-**Gamified Interactive Resume Builder**  
-A smart, gamified platform that helps users build professional resumes through an engaging and interactive UI experience.  
-🔗 https://github.com/Laluprasad1/ResumeSpark  
+### 💰 FinPulse
+
+### Personal Finance Management Platform
+
+A modern full-stack finance tracking application designed to simplify personal money management through analytics, budgeting, recurring transactions, and collaborative expense settlement.
+
+#### Key Features
+
+✅ Budget Management
+
+✅ Expense Tracking
+
+✅ Analytics Dashboard
+
+✅ Recurring Transactions
+
+✅ Collaborative Trip Expense Settlement
+
+✅ Data Visualization
+
+✅ Secure User Authentication
+
+#### Tech Stack
+
+React • Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
-### 🧠 EmoVision  
-**AI-Powered Facial Emotion Recognition System**  
-An intelligent system that detects and visualizes human emotions in real time using deep learning and computer vision techniques.  
-🔗 https://github.com/Laluprasad1/EmoVision  
+### 🎨 ClickCrafter
+
+### AI-Powered Promotional Content Generator
+
+An intelligent platform that generates banners, posters, and promotional creatives for e-commerce businesses, events, webinars, and marketing campaigns using AI.
+
+#### Key Features
+
+✅ AI Banner Generation
+
+✅ Event Poster Creation
+
+✅ Dynamic Content Generation
+
+✅ Theme & Color Customization
+
+✅ Marketing Asset Automation
+
+✅ Brand-Oriented Designs
+
+#### Tech Stack
+
+Python • Gemini API • OpenAI API • PIL
+
+🔗 https://github.com/Laluprasad1/ClickCrafter
 
 ---
 
-### 🎨 ClickCrafter  
-**AI Banner and Video Generator**  
-An AI-powered promotional content generator that creates customizable banners and videos for e-commerce platforms, events, and webinars.  
-🔗 https://github.com/Laluprasad1/ClickCrafter  
+### 📄 ResumeSpark
+
+### Interactive Resume Building Platform
+
+A smart resume generation platform that transforms traditional resume creation into an engaging and guided experience.
+
+#### Key Features
+
+✅ Interactive Resume Builder
+
+✅ Real-Time Preview
+
+✅ Modern Templates
+
+✅ User-Friendly Interface
+
+✅ Export Ready Designs
+
+#### Tech Stack
+
+HTML • CSS • JavaScript
+
+🔗 https://github.com/Laluprasad1/ResumeSpark
 
 ---
 
-### 📊 DSA Visualizer  
-**Sorting and Searching Algorithm Visualizer**  
-An interactive web-based tool to visualize popular sorting and searching algorithms for better learning and concept clarity.  
-🔗 https://github.com/Laluprasad1/Sorting-Searching-Visualizer  
+### 🧠 EmoVision
+
+### AI-Powered Facial Emotion Recognition System
+
+A computer vision application capable of detecting and analyzing human emotions through facial expression recognition.
+
+#### Key Features
+
+✅ Real-Time Emotion Detection
+
+✅ Face Recognition
+
+✅ Emotion Classification
+
+✅ Visualization Dashboard
+
+✅ AI-Powered Analysis
+
+#### Tech Stack
+
+Python • OpenCV • Machine Learning
+
+🔗 https://github.com/Laluprasad1/EmoVision
 
 ---
 
-### ❌⭕ Tic-Tac-Toe AI  
-**Minimax-Based Game AI**  
-A classic Tic-Tac-Toe game powered by the Minimax algorithm that allows players to challenge an unbeatable AI opponent.  
-🔗 https://github.com/Laluprasad1/tic-tac-toe-master  
- 
+### 📊 DSA Visualizer
+
+### Sorting & Searching Algorithm Visualizer
+
+An interactive educational platform designed to help learners understand algorithm behavior through visual animations.
+
+#### Key Features
+
+✅ Sorting Visualizations
+
+✅ Searching Visualizations
+
+✅ Interactive Learning Experience
+
+✅ Algorithm Performance Understanding
+
+#### Tech Stack
+
+HTML • CSS • JavaScript
+
+🔗 https://github.com/Laluprasad1/Sorting-Searching-Visualizer
+
+---
+
+### ❌⭕ Tic-Tac-Toe AI
+
+### Minimax-Based Intelligent Game
+
+A classic Tic-Tac-Toe implementation featuring an unbeatable AI opponent powered by the Minimax Algorithm.
+
+#### Key Features
+
+✅ Intelligent AI Opponent
+
+✅ Minimax Decision Making
+
+✅ Interactive Gameplay
+
+✅ Strategy-Based Logic
+
+#### Tech Stack
+
+JavaScript • HTML • CSS
+
+🔗 https://github.com/Laluprasad1/tic-tac-toe-master
 
 ---
 
 ## 🏆 Achievements & Certifications
- 
-- 👨‍💻 Chair of SRU Hackathon Club  
-- 🏁 AWS Academy Certified  
-- 🏁 CCNA Intro to Networks  
-- 🏁 JPMorgan Chase Software Engineering Simulation  
+
+- 👨‍💻 Chair, SR University Hackathon Club
+- 🎯 Smart India Hackathon Student Coordinator
+- 🏁 AWS Academy Certified
+- 🏁 CCNA Introduction to Networks
+- 🏁 JPMorgan Chase Software Engineering Virtual Experience
+- 🧠 Participant, AIU Anveshan Research Competition
+- 💻 Active Open Source Contributor
+- 🚀 Competitive Programmer & DSA Enthusiast
 
 ---
 
 ## 💬 Fun Fact
 
-I’m a fast learner but my short-term memory sometimes takes a coffee break ☕😆
+I love building products that combine creativity, problem-solving, and technology. Whether it's AI, Full Stack Development, Cloud Computing, or DSA, I'm always excited to learn, build, and innovate 🚀
 
 ---
 
-### ⚡ LeetCode Strikes
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Laluprasad1?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
-</p>
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laluprasad1&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laluprasad1&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Laluprasad1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laluprasad1&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 📊 GitHub Contributor Statistics
-
-![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lalu-prasad-aroori/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Laluprasad1" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Laluprasad1/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/aroorilaluprasad" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:aroorilaluprasad@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laluprasad1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+- Advanced React Patterns
+- Next.js
+- Docker & Kubernetes
+- System Design
+- Microservices Architecture
+- DevOps Practices
+- Cloud-Native Development
