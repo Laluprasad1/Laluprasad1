@@ -341,10 +341,10 @@ JavaScript • HTML • CSS
 
 ---
 
+
 ## 💬 Fun Fact
 
-I love building products that combine creativity, problem-solving, and technology. Whether it's AI, Full Stack Development, Cloud Computing, or DSA, I'm always excited to learn, build, and innovate 🚀
-
+My favorite way to learn a new technology is to build a project with it. If I can build it, I can understand it.
 ---
 
 ## 🌱 Currently Learning
