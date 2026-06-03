@@ -32,110 +32,22 @@
 - **Intermediate:** Pragathi Junior College, Nalgonda
 - **UG:** SR University (B.Tech CSE, 2023–2027)
 - **Current CGPA:** 9.8/10
-
+  
 ## 💼 Internship Experience
 
-<table>
-<tr>
-<td align="center">
+| ☁️ Agratas Academy | 🤖 AICTE AI/ML | 📊 AICTE Data Engineering |
+|-------------------|---------------|---------------------------|
+| Cloud Computing Intern | AI/ML Virtual Intern | Data Engineering Intern |
+| Cloud Architecture | Machine Learning | Data Pipelines |
+| Infrastructure | Model Building | Data Processing |
+| Deployment | Data Preprocessing | Analytics |
 
-### ☁️ Cloud Computing
-
-**Agratas Academy**
-
-🏗️ Cloud Architecture
-
-⚙️ Infrastructure
-
-🚀 Deployment
-
-🌐 Cloud Services
-
-</td>
-
-<td align="center">
-
-### 🤖 Artificial Intelligence
-
-**AICTE Eduskills**
-
-🧠 Machine Learning
-
-📈 Data Processing
-
-🔍 Model Training
-
-⚡ AI Workflows
-
-</td>
-
-<td align="center">
-
-### 📊 Data Engineering
-
-**AICTE Eduskills**
-
-🗄️ Data Pipelines
-
-📉 Analytics
-
-⚡ Processing
-
-📚 Engineering Concepts
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🎯 Professional Skills
-
-**AICTE Eduskills**
-
-💬 Communication
-
-🤝 Collaboration
-
-🏆 Leadership
-
-📈 Career Readiness
-
-</td>
-
-<td align="center">
-
-### 🧠 Google AI-ML
-
-**Virtual Internship**
-
-🚀 AI Applications
-
-🔬 ML Concepts
-
-💡 Problem Solving
-
-🌎 Industry Exposure
-
-</td>
-
-<td align="center">
-
-### 🚀 Builder Mindset
-
-**Continuous Learning**
-
-💻 Full Stack
-
-☁️ Cloud
-
-🤖 AI
-
-🌟 Open Source
-
-</td>
-</tr>
-</table>
+| 🎯 Employability Skills | 🧠 Google AI-ML | 🚀 Beyond Internships |
+|------------------------|----------------|----------------------|
+| Communication Skills | AI Applications | Open Source |
+| Team Collaboration | ML Concepts | Hackathons |
+| Professional Growth | Problem Solving | Product Development |
+| Career Readiness | Industry Exposure | Full Stack Engineering |
 
 ---
 ### 🚀 Languages & Tools
