@@ -61,35 +61,121 @@
 
 ---
 
-## 🚀 Languages & Technologies
+### 🚀 Languages & Tools
 
-### 👨‍💻 Programming Languages
+<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/><br/>Java
+</td>
 
-Java • Python • JavaScript • SQL • C
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br/>Python
+</td>
 
-### 🎨 Frontend Development
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/><br/>JavaScript
+</td>
 
-HTML5 • CSS3 • Bootstrap • React.js • Next.js
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/><br/>C
+</td>
 
-### ⚙️ Backend Development
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br/>MySQL
+</td>
+</tr>
 
-Node.js • Express.js • REST APIs
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/><br/>MongoDB
+</td>
 
-### 🗄️ Databases
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/><br/>React
+</td>
 
-MongoDB • MySQL
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60"/><br/>Next.js
+</td>
 
-### ☁️ Cloud & DevOps
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/><br/>Node.js
+</td>
 
-AWS • Docker • Git • GitHub • CI/CD
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/><br/>Express
+</td>
+</tr>
 
-### 🤖 AI & Data
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/><br/>HTML5
+</td>
 
-Machine Learning • OpenCV • Data Visualization • Prompt Engineering
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/><br/>CSS3
+</td>
 
-### 🛠️ Developer Tools
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/><br/>Bootstrap
+</td>
 
-VS Code • Postman • Linux • GitHub Actions
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/><br/>Git
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/><br/>GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/><br/>Docker
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/><br/>AWS
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/><br/>Linux
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"/><br/>VS Code
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br/>Postman
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" width="60"/><br/>DSA
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4144/4144764.png" width="60"/><br/>Cloud
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/><br/>REST APIs
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942789.png" width="60"/><br/>AI/ML
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/><br/>Open Source
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
@@ -281,3 +367,69 @@ I love building products that combine creativity, problem-solving, and technolog
 - Microservices Architecture
 - DevOps Practices
 - Cloud-Native Development
+
+### ⚡ LeetCode Strikes
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Laluprasad1?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
+</p>
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laluprasad1&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laluprasad1&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Laluprasad1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laluprasad1&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📊 GitHub Contributor Statistics
+
+![Snake animation](https://raw.githubusercontent.com/Laluprasad1/Laluprasad1/output/snake.svg)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalu-prasad-aroori/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Laluprasad1" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Laluprasad1/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/aroorilaluprasad" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aroorilaluprasad@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laluprasad1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+**
