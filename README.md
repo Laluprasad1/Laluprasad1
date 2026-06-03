@@ -37,103 +37,107 @@
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-### ☁️ Agratas Academy
-**Cloud Computing Intern**
+### ☁️ Cloud Computing
 
-🔹 Cloud Architecture Fundamentals
+**Agratas Academy**
 
-🔹 Deployment & Infrastructure Concepts
+🏗️ Cloud Architecture
 
-🔹 Virtualization & Cloud Services
+⚙️ Infrastructure
 
-🔹 Hands-on Cloud Computing Practices
+🚀 Deployment
 
-</td>
-
-<td width="50%">
-
-### 🤖 AICTE Eduskills
-**AI/ML Virtual Intern**
-
-🔹 Machine Learning Workflows
-
-🔹 Data Preprocessing Techniques
-
-🔹 Model Development Concepts
-
-🔹 AI Problem Solving
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 AICTE Eduskills
-**Data Engineering Intern**
-
-🔹 Data Pipeline Fundamentals
-
-🔹 Structured & Unstructured Data
-
-🔹 Data Processing Concepts
-
-🔹 Engineering Best Practices
+🌐 Cloud Services
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🎯 AICTE Eduskills
-**Employability Skills Intern**
+### 🤖 Artificial Intelligence
 
-🔹 Professional Communication
+**AICTE Eduskills**
 
-🔹 Workplace Readiness
+🧠 Machine Learning
 
-🔹 Team Collaboration
+📈 Data Processing
 
-🔹 Problem Solving Skills
+🔍 Model Training
+
+⚡ AI Workflows
+
+</td>
+
+<td align="center">
+
+### 📊 Data Engineering
+
+**AICTE Eduskills**
+
+🗄️ Data Pipelines
+
+📉 Analytics
+
+⚡ Processing
+
+📚 Engineering Concepts
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center">
+
+### 🎯 Professional Skills
+
+**AICTE Eduskills**
+
+💬 Communication
+
+🤝 Collaboration
+
+🏆 Leadership
+
+📈 Career Readiness
+
+</td>
+
+<td align="center">
 
 ### 🧠 Google AI-ML
+
 **Virtual Internship**
 
-🔹 AI & ML Applications
+🚀 AI Applications
 
-🔹 Real-World Use Cases
+🔬 ML Concepts
 
-🔹 Intelligent Systems
+💡 Problem Solving
 
-🔹 Industry-Oriented Learning
+🌎 Industry Exposure
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🚀 Continuous Learning
+### 🚀 Builder Mindset
 
-🔹 Open Source Contributions
+**Continuous Learning**
 
-🔹 Hackathon Participation
+💻 Full Stack
 
-🔹 Product Development
+☁️ Cloud
 
-🔹 Full Stack Engineering
+🤖 AI
+
+🌟 Open Source
 
 </td>
 </tr>
 </table>
 
 ---
-
 ### 🚀 Languages & Tools
 
 <p align="center">
