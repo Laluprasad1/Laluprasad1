@@ -33,31 +33,104 @@
 - **UG:** SR University (B.Tech CSE, 2023–2027)
 - **Current CGPA:** 9.8/10
 
-### 💼 Internships
+## 💼 Internship Experience
 
-#### ☁️ Agratas Academy
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Agratas Academy
 **Cloud Computing Intern**
-- Explored cloud architecture fundamentals
-- Worked with deployment workflows and infrastructure concepts
-- Gained practical exposure to cloud technologies
 
-#### 🤖 AICTE Eduskills
-**AI/ML Virtual Internship**
-- Worked on machine learning concepts and workflows
-- Learned model building and data preprocessing techniques
+🔹 Cloud Architecture Fundamentals
 
-#### 📊 AICTE Eduskills
-**Data Engineering Virtual Internship**
-- Learned data engineering fundamentals
-- Worked with structured and unstructured datasets
+🔹 Deployment & Infrastructure Concepts
 
-#### 🎯 AICTE Eduskills
-**Employability Skills Job-Ready Virtual Internship**
-- Enhanced professional communication and workplace skills
+🔹 Virtualization & Cloud Services
 
-#### 🧠 Google AI-ML Virtual Internship
-- Developed practical understanding of AI and Machine Learning applications
-- Explored real-world AI problem-solving approaches
+🔹 Hands-on Cloud Computing Practices
+
+</td>
+
+<td width="50%">
+
+### 🤖 AICTE Eduskills
+**AI/ML Virtual Intern**
+
+🔹 Machine Learning Workflows
+
+🔹 Data Preprocessing Techniques
+
+🔹 Model Development Concepts
+
+🔹 AI Problem Solving
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 AICTE Eduskills
+**Data Engineering Intern**
+
+🔹 Data Pipeline Fundamentals
+
+🔹 Structured & Unstructured Data
+
+🔹 Data Processing Concepts
+
+🔹 Engineering Best Practices
+
+</td>
+
+<td width="50%">
+
+### 🎯 AICTE Eduskills
+**Employability Skills Intern**
+
+🔹 Professional Communication
+
+🔹 Workplace Readiness
+
+🔹 Team Collaboration
+
+🔹 Problem Solving Skills
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Google AI-ML
+**Virtual Internship**
+
+🔹 AI & ML Applications
+
+🔹 Real-World Use Cases
+
+🔹 Intelligent Systems
+
+🔹 Industry-Oriented Learning
+
+</td>
+
+<td width="50%">
+
+### 🚀 Continuous Learning
+
+🔹 Open Source Contributions
+
+🔹 Hackathon Participation
+
+🔹 Product Development
+
+🔹 Full Stack Engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
